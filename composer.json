@@ -1,0 +1,16 @@
+{
+    "name": "laravel/laravel",
+    "description": "mint",
+    "autoload": {
+        "psr-4": {
+            "Laravel\\Laravel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mikeqci",
+            "email": "mwright@quickcustomintelligence.com"
+        }
+    ],
+    "require": {}
+}
